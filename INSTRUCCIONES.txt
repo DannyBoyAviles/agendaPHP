@@ -1,0 +1,8 @@
+1.- importar la BD
+2.- el PASSWORD de todos los usuarios es "123"
+3.- puedes crear un nuevo usuario con el formulario añadido o utilizar uno de los siguiente:
+        edgar@email.com
+        julio@email.com
+        perla@email.com
+4.- crea, actualiza y/o elimina los eventos
+5.- cierra session he intenta logearte con un usuario no existente
